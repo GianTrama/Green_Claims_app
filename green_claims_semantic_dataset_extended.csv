@@ -1,0 +1,268 @@
+claim,categoria,spiegazione
+Packaging composto al 90% da carta riciclata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 90 percento da carta riciclata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 50% da carFavorisceta riciclata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 90% da carta riciclata,Ambiguo,Specifico ma non supportato da documentazione.
+Packaging composto al 90% da carta riciclata certificata,Valido,Quantificato e possiede certificazioni.
+Packaging composto al 30% da carta riciclata,Ambiguo,Specifico ma manca certificazione
+Packaging composto al 90% da carta riutilizzata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 90 percento da carta riutilizzata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 50% da carta riutilizzata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 90% da carta riutilizzata,Ambiguo,Specifico ma non supportato da documentazione.
+Packaging composto al 90% da carta riutilizzata certificata,Ambiguo,Quantificato e possiede certificazioni.
+Packaging composto al 30% da carta riutilizzata,Ambiguo,Specifico ma manca la certificazione
+Packaging composto al 90% da carta recuperata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 90 percento da carta recuperata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 50% da carta recuperata certificata FSC,Valido,Specifico e quantificato e supportato da certificazione.
+Packaging composto al 90% da carta recuperata,Ambiguo,Specifico ma non supportato da documentazione.
+Packaging composto al 90% da carta recuperata certificata,Valido,Quantificato e possiede certificazioni.
+Packaging composto al 30% da carta recuperata,Ambiguo,Specifico ma manca la certificazione
+Packaging con 10% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 20% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 30% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 40% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 50% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 60% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 70% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 80% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 90% plastica riciclata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 40% plastica riutilizzata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 50% plastica riutilizzata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 60% plastica riutilizzata,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 40% plastica riutilizzabile,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 50% plastica riutilizzabile,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 60% plastica riutilizzabile,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 50% plastica riciclata certificata,Valido,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 60% plastica riciclata certificata,Valido,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 70% plastica con certificazione,Valido,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 80% plastica con certificato,Valido,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 90% plastica con delle certificazioni,Valido,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 40% plastica riutilizzata Certificata riciclata,Valido,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 50% plastica riutilizzata e dimostrata da documentazione,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging con 60% plastica riutilizzata documentata con certificazioni,Ambiguo,Potenzialmente valido ma mancano dettagli su certificazione
+Packaging riciclabile,Valido,Specifico e chiaro.
+Packaging recuperabile,Valido,specifico e chiaro.
+Packaging composto da materiale recuperabile,Ambiguo,Non è specificato se l'intero imballaggio è riciclabile o solo una parte.
+Packaging fabbricato con materiali riciclabili,Ambiguo,Non è specificato se l'intero imballaggio è riciclabile o solo una parte.
+Packaging fabbricato con l'utilizzo di materiali riutilizzabili,Ambiguo,Non è specificato se l'intero imballaggio è riciclabile o solo una parte.
+Il nostro imballaggio è composto da materiale riutilizzabile,Ambiguo,Non è specificato se l'intero imballaggio è riciclabile o solo una parte.
+Packaging composto dal 50% materiale recuperabile,Valido,Specifica una percentuale del materiale riciclabile usato.
+Packaging fabbricato con il 70% di materiali riciclabili,Valido,Specifica una percentuale del materiale riciclabile usato.
+Packaging fabbricato con l'utilizzo di materiali riutilizzabili (40%),Valido,Specifica una percentuale del materiale riciclabile usato.
+Il nostro imballaggio è composto dal 25% di materiale riutilizzabile,Valido,Specifica una percentuale del materiale riciclabile usato.
+Packaging composto al 110% da carta riciclata certificata FSC,Ingannevole,Valore della percentuale impossibile.
+Packaging composto al 110% da carta riutilizzata certificata FSC,Ingannevole,Valore della percentuale impossibile.
+Packaging composto al 120% da carta riciclata certificata FSC,Ingannevole,Valore della percentuale maggiore del 100%.
+Packaging composto al 120% da carta riutilizzata certificata FSC,Ingannevole,Valore della percentuale maggiore del 100%.
+Packaging composto al 120% da carta riutilizzabile certificata FSC,Ingannevole,Valore della percentuale maggiore del 100%.
+Prodotto certificato secondo ISO 14001 e audit EMAS,Valido,Claim chiaro e verificabile secondo standard riconosciuti.
+Emissioni CO2 ridotte del 35% rispetto al modello 2020,Valido,Quantificato e verificabile e comparativo.
+Emissioni ridotte del 30% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Emissioni ridotte del 20% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Emissioni ridotte del 50% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Emissioni ridotte del 70% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Emissioni ridotte del 30%,Ingannevole,Non è indicato rispetto a cosa è ridotto.
+Riduce le emissioni di CO2 del 35% rispetto al modello 2020,Valido,Quantificato e verificabile e comparativo.
+Riduce le emissioni di CO2 del 30% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Riduce le emissioni di CO2 20% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Riduce le emissioni di CO2 50% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Riduce le emissioni di CO2 70% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Riduce le emissioni di CO2 30%,Ingannevole,Non è indicato rispetto a cosa è ridotto.
+Abbassa le emissioni di CO2 del 35% rispetto al modello 2020,Valido,Quantificato e verificabile e comparativo.
+Abbassa le emissioni di CO2 del 30% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Abbassa le emissioni di CO2 20% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Abbassa le emissioni di CO2 50% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Abbassa le emissioni di CO2 70% rispetto a modello precedente (anno),Valido,Claim supportato da percentuale specifica benchmark.
+Riduce le emissioni di CO2 30%,Ingannevole,Non è indicato rispetto a cosa è ridotto.
+Riduce l'inquinamento del 30%,Ingannevole, Non è supportato da certificazione e non è indicato rispetto a cosa è ridotto.
+Abbassa le emissioni di CO2 30%,Ingannevole,Non è indicato rispetto a cosa è ridotto.
+Abbassa l'inquinamento del 30%,Ingannevole, Non è supportato da certificazione e non è indicato rispetto a cosa è ridotto.
+Riduce le emissioni di CO2 30 percento,Ingannevole,Non è indicato rispetto a cosa è ridotto.
+Riduce l'inquinamento del 30 percento,Ingannevole, Non è supportato da certificazione e non è indicato rispetto a cosa è ridotto.
+Abbassa le emissioni di CO2 30 percento,Ingannevole,Non è indicato rispetto a cosa è ridotto.
+Abbassa l'inquinamento del 30 percento,Ingannevole, Non è supportato da certificazione e non è indicato rispetto a cosa è ridotto.
+l'abbassamento delle emissioni di CO2 30%,Ingannevole,Non è indicato rispetto a cosa è ridotto.
+Favorisce la riduzione  dell'inquinamento del 30%,Ingannevole, Non è supportato da certificazione e non è indicato rispetto a cosa è ridotto.
+Favorisce la riduzione  dell'inquinamento del 30 percento,Ingannevole, Non è supportato da certificazione e non è indicato rispetto a cosa è ridotto.
+Porterà una riduzione dell'inquinamento del 30 percento,Ingannevole,Non specifico.
+Porterà a ridurre l'inquinamento del 30 percento,Ingannevole,Non specifico.
+Riduce l'inquinamento del 30 percento,Ingannevole,Non specifico.
+riduce l'inquinamento del 70 percento,Ingannevole,Non specifico.
+Riduce l'inquinamento del 65%,Ingannevole,Non specifico.
+Riduce le emissioni di gas del 30% rispetto al modello precedente,Valido,Claim supportato e certificato.
+Riduce le emissioni di gas del 70% rispetto al modello precedente,Valido,Claim supportato e certificato.
+Riduce le emissioni di gas del 60% rispetto al modello 2024,Valido,Claim supportato e certificato.
+Riduce le emissioni di gas del 50% rispetto al modello 2023,Valido,Claim supportato e certificato.
+Riduce le emissioni di gas del 75% rispetto al vecchio modello,Valido,Claim supportato e certificato.
+Riduce le emissioni di CO₂ del 5% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 10% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 15% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 20% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 25% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 30% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 35% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 40% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 45% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 50% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 55% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 60% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 65% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 70% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 75% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 80% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 85% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 90% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Riduce le emissioni di CO₂ del 95% rispetto al modello precedente,Valido,Quantificato e verificabile con benchmark di confronto
+Etichetta Ecolabel EU conforme al Regolamento CE 66/2010,Valido,Claim conforme a regolamento europeo.
+Prodotto certificato Ecolabel,Valido,Claim conforme.
+Realizzato con 100% plastica riciclata post-consumo (certificata),Valido,Claim chiaro e con supporto verificabile.
+A base vegetale,Ambiguo,Non specifica percentuali o componenti esatti.
+Realizzato con materiali naturali,Ambiguo,Vago perchè non è chiaro cosa si intende per naturali.
+Packaging ecosostenibile,Ambiguo,Claim troppo generico e non definito.
+Riduce l'impatto ambientale,Ambiguo,Non è indicato cosa viene ridotto e nemmeno quanto.
+Contribuisce alla sostenibilità,Ambiguo,Generico e non supportato da misurazioni o standard.
+100% magico,Ingannevole,Claim privo di senso ambientale e potenzialmente fuorviante.
+Ecologico per natura,Ingannevole,Privo di riferimenti concreti e anche se suona bene non è verificabile.
+Senza CO2,Ingannevole,Assoluto e improbabile per qualsiasi prodotto fisico.
+Zero impatto ambientale,Ingannevole,Non realisticamente sostenibile.
+Amico del pianeta,Ingannevole,Claim emozionale è soggettivo e non misurabile.
+Senza glutine,Irrilevante,Non ha relazione con la sostenibilità (su un prodotto non alimentare).
+Privo di BPA,Irrilevante,Legato alla salute e non necessariamente all'ambiente.
+Rispetta l'ambiente e la natura,Ingannevole,non è specificato come rispetta la natura e non possiede certificazioni
+Per un mondo più green,Marketing,Slogan privo di significato
+Cruelty free,Irrilevante,Claim etico ma non collegato a impatto ambientale.
+Made in Italy,Irrilevante,Origine geografica non implica Sostenibilità.
+Adatto ai vegani,Irrilevante,Claim etico ma non ambientale.
+Il prodotto più verde di sempre!,Marketing,Slogan iperbolico ma non verificabile.
+Sostenibilità totale,Marketing,Assoluto e non realistico.
+100% eco love,Marketing,Emozionale ma non informativo.
+Il futuro è sostenibile (e lo siamo anche noi),Marketing,Slogan privo di contenuto misurabile.
+Pensa green,Marketing,Frase promozionale ma non un vero claim tecnico.
+Vivi green,Marketing,Frase promozionale ma non un vero claim tecnico.
+100% sostenibile,Ingannevole, Claim generico
+Senza CFC,Ingannevole,I CFC sono già vietati da anni
+Ridotto impatto ambientale,Ambiguo, Potenzialmente valido ma da chiarire
+Prodotto consapevole,Ingannevole,Claim generico
+Prodotto per persone consapevoli,Ingannevole,Claim generico e privo di significato.
+Senza microplastiche,Ambiguo,Claim da dimostrare o da chiarire
+Amico del clima,Ingannevole,Claim generico
+Amico dell'ambiente,Ingannevole,Claim generico e privo di significato.
+Migliora l'ambiente,Ingannevole,Claim generico e privo di significato.
+Favorisce l'ambiente e il clima,Ingannevole,Claim generico e privo di significato.
+Completamente sostenibile,Ingannevole,Claim poco chiaro (completamente??)
+100% sostenibile,Ambiguo,Claim potenzialmente valido ma da chiarire in che modo 100% sostenibile
+Interamente sostenibile,Ambiguo,Claim potenzialmente valido ma da chiarire in che modo interamente sostenibile
+100 percento sostenibile,Ambiguo,Claim potenzialmente valido ma da chiarire in che modo 100% sostenibile
+40% sostenibile,Ambiguo,Claim poco chiaro (cosa significa 40% sostenibile)
+20% sostenibile,Ambiguo,Claim poco chiaro (cosa significa 20% sostenibile)
+10% sostenibile,Ambiguo,Claim poco chiaro (cosa significa 10% sostenibile)
+70% sostenibile,Ambiguo,Claim poco chiaro (cosa significa 40% sostenibile)
+E' sostenibile al 10%,Ingannevole,Claim poco chiaro (cosa significa 40% sostenibile)
+Sostenibile per il 40 percento,Ambiguo,Claim poco chiaro (cosa significa 40% sostenibile?)
+100% Energia rinnovabile,Ambiguo,Claim potenzialmente valido ma da chiarire
+100 percento energia rinnovabile,Ambiguo,Claim potenzialmente valido ma da chiarire.
+30% energia rinnovabile,Ambiguo,Claim potenzialmente valido ma da chiarire.
+70 percento energia rinnovabile,Ambiguo,Claim potenzialmente valido ma da chiarire.
+55% energia rinnovabile,Ambiguo,Claim potenzialmente valido ma da chiarire.
+0% emissioni nette,Ingannevole,Claim generico
+Non emette inquinanti,Ambiguo,Claim generico da verificare (difficilmente non vengono emessi inquinanti)
+Emette zero inquinanti,Ambiguo,Claim generico da verificare (difficilmente non vengono emessi inquinanti)
+Non rilascia inquinanti,Ambiguo,Claim generico da verificare (difficilmente non vengono emessi inquinanti)
+Nessun rilascio di inquinanti,Ambiguo,Claim generico da verificare (difficilmente non vengono emessi inquinanti)
+A base di ingredienti naturali,Ambiguo,Claim potenzialmente valido ma da chiarire
+Non contiene sostanze chimiche dannose per l'ambiente,Ambiguo,Claim potenzialmente valido ma da chiarire
+Plastic free,Ambiguo,Claim potenzialmente valido ma da chiarire
+Clima neutrale,Ingannevole,Claim generico
+Carbon neutral,Ambiguo,Potenzialmente valido se dimostrato e certificato
+Il prodotto favorisce la neutralità carbonica,Ambiguo,Potenzialmente valido se dimostrato e certificato
+Auto sostenibile,Ingannevole,Claim generico
+La nostra auto è efficiente e sostenibile,Ingannevole,Claim generico e poco chiaro.
+La nostra auto ha un efficienza migliore del 50% rispetto al modello precedente,Ambiguo,Claim potenzialmente valido ma specificare meglio cosa si intende per efficienza.
+Prodotto più eficiente del 30% rispetto alla concorrenza,Ambiguo,Potenzialmente valido ma da specificare in che modo e cosa si intende per efficienza.
+Auto realizzata con 50% parti riciclate ELVs (end of life vehicles) certificato e supportato da LCA,Valido,Claim conforme.
+Auto realizzata con ELVs,Ingannevole,Claim generico privo di documentazione e non specifica percentuali.
+Auto realizzata con parti riciclate ELVs (end of life vehicles),Ingannevole,Claim non supportato da documentazione
+Auto 100% ecologica,Ingannevole,Nessuna vettura è 100% ecologica.
+Riutilizzabile,Ambiguo,Non è specificata la percentuale
+Interamente riciclabile e Riutilizzabile,Ambiguo,Potenzialmente valido se supportato da certificazioni e documentazione
+Interamente riutilizzabile,Ambiguo,Potenzialmente valido se supportato
+Composto dal 45 percento di plastica riciclata certificata,Valido,Supportato da certificazioni e documentazione
+Composto dal 25 percento di plastica riciclata,Ambiguo,Potenzialmente valido ma manca certificazione 
+Composto dal 65% di plastica riciclata certificato,Valido,Supportato da certificazione
+La sicurezza prima di tutto,Marketing,slogan Irrilevante
+Riduce le emissioni di CO₂ del 5%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 10%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 15%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 20%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 25%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 30%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 35%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 40%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 45%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 50%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 55%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 60%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 65%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 70%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 75%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 80%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 85%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 90%,Ingannevole,Manca riferimento comparativo
+Riduce le emissioni di CO₂ del 95%,Ingannevole,Manca riferimento comparativo
+Compatibile con energy-saving,Irrilevante,Non misura impatto ambientale
+Certificazione LEED per efficienza energetica,Valido,Standard LEED riconosciuto
+Production carbon positive al 120%,Ingannevole,Percentuale impossibile da verificare
+Ammortamento emissioni garantito,Marketing,Termine vago e promozionale
+Prodotto cruelty free certificato da Leaping Bunny,Valido,Certificazione terza parte riconosciuta
+Prodotto,Ingannevole,Non ha nessun significato.
+Prodotto a ridotto impatto ambientale,Ambiguo,Non è specificato rispetto a cosa è ridotto.
+Prodotto a ridotto impatto ambientale rispetto al modello precedente,Ambiguo,Non è quantificato di quanto è ridotto l'impatto.
+Prodotto a ridotto impatto ambientale del 30% rispetto al modello precedente,Ambiguo,Non specifica in che modo riduce l'impatto ambientale
+A ridotto impatto di CO2 del 30% rispetto al modello precedente,Valido,Specifico e contiene il termine di paragone.
+Impatto di CO2 ridotta del 30% rispetto al modello precedente,Valido,Specifico e contiene il termine di paragone.
+Impatto di CO2 ridotta del 60% rispetto al modello precedente,Valido,Specifico e contiene il termine di paragone.
+Ridotto impatto di CO2 del 30 percento rispetto al modello precedente,Valido,Specifico e contiene il termine di paragone.
+A ridotto impatto di CO2 del 30 percento rispetto al modello 2020,Valido,Specifico e contiene il termine di paragone.
+A ridotto impatto di CO2 del 30 percento rispetto al vecchio modello,Valido,Specifico e contiene il termine di paragone.
+Riduce le emissioni di CO2,Ingannevole,Non è specificato in che modo riduce le emissioni.
+Riduce,Ingannevole,Non è specificato cosa riduce e in che modo.
+Auto 100% ecologica secondo LCA,Valido,Basato su analisi del ciclo di vita
+Eco-friendly testato in laboratorio,Valido,Supportato da test di terza parte
+100% riciclabile,Ambiguo,Claim specifica percentuale e certificazione ma non dice se riguarda imballaggio o prodotto intero.
+100% riciclato post-consumo",Ambiguo,Manca contesto su quali parti del prodotto o quantità effettive.
+100% riciclabile (solo imballaggio),Valido,Ora il contesto è chiaro: specifica packaging e diventa valido.
+Prodotto con energia solare locale,Ambiguo,Privo di significato.
+Realizzato con energia solare locale supportato da ISO 14001,Ambiguo,il claim non è chiaro anche se supportato da ISO.
+Realizzato sfruttando energia solare locale supportato da ISO,Ambiguo,il claim non è chiaro anche se supportato da ISO.
+Realizzato con energia solare supportato da ISO 14001,Ambiguo,il claim non è chiaro anche se supportato da ISO.
+Realizzato sfruttando energia solare supportato da ISO,Ambiguo,il claim non è chiaro anche se supportato da ISO.
+Realizzato con energia solare locale certificato da ISO 14001,Ambiguo,il claim non è chiaro anche se supportato da ISO.
+Realizzato sfruttando energia solare locale certificato ISO,Ambiguo,il claim non è chiaro anche se supportato da ISO.
+Realizzato con energia solare certificato da ISO 14001,Ambiguo,il claim non è chiaro anche se supportato da ISO.
+Realizzato sfruttando energia solare certificato da ISO,Ambiguo,il claim non è chiaro anche se supportato da ISO.
+Prodotto a partire da fonti rinnovabili supportato da LCA e documentazione scentifica,Valido,E' supportato da documentazione.
+Prodotto a partire da fonti rinnovabili,Ingannevole,Non è supportato da documentazione.
+100% rinnovabile,Ingannevole,Non è supportato da certificazioni e/o documentazione.
+Ottenuto sfruttando solo fonti rinnovabili,Ingannevole,Non è supportato da certificazioni e/o documentazione.
+Ottenuto a partire da fonti rinnovabili,Ingannevole,Non è supportato da certificazioni e/o documentazione.
+Ottenuto a partire da fonti rinnovabili supportato con LCA e documentazione scentifica,Valido,Supportato e certificato.
+Ottenuto utilizzando fonti rinnovabili,Ingannevole,Non supportato e non documentato.
+Ottenuto utilizzando fonti rinnovabili supportato da LCA e documentazione scientifica,Valido,supportato e documentato scientificamente.
+Il nostro prodotto è stato fabbricato sfruttando unicamente energia rinnovabile (solare/eolica/idrica) supportato da LCA e documentazione scientifica,Valido,supportato e documentato.
+Il nostro prodotto è stato fabbricato sfruttando unicamente energia rinnovabile (solare eolica idrica) supportato da LCA e documentazione scientifica,Valido,supportato e documentato.
+Prodotto in plastica riciclata carbon neutral supportato da iso 14064 o pas 2060,Valido,supportato da certificazioni 
+Il nostro prodotto è stato fabbricato utilizzando plastica riciclata per ridurre le emissioni di CO2 in atmosfera,Ambiguo,Non specifica di quanto è la riduzione e non è presente un termine di paragone.
+Il nostro prodotto è stato fabbricato utilizzando plastica riciclata riducendo del 30% le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA,Valido,Specifico quantificabile e supportato.
+Il nostro prodotto è stato fabbricato utilizzando plastica riciclata riducendo del 30 percento le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA,Valido,Specifico quantificabile e supportato.
+Il nostro prodotto è stato realizzato utilizzando plastica riciclata riducendo del 30% le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA,Valido,Specifico quantificabile e supportato.
+Il nostro prodotto è stato realizzato utilizzando plastica riciclata riducendo del 30 percento le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA,Valido,Specifico quantificabile e supportato.
+Il nostro prodotto è stato realizzato utilizzando plastica riciclata riducendo le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA,Ambiguo,Non è quantificato anche se presenta LCA e documentazione.
+Realizzato utilizzando plastica riciclata riducendo le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA,Ambiguo,Non è quantificato anche se presenta LCA e documentazione.
+Realizzato con plastica riciclata per ridurre le emissioni di CO2 in atmosfera,Ambiguo,Non specifica di quanto è la riduzione e non è presente un termine di paragone.
+Realizzato con plastica riciclata riducendo del 30% le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA FSC,Valido,Specifico quantificabile e supportato.
+Realizzato con plastica riciclata riducendo del 30 percento le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA FSC,Valido,Specifico quantificabile e supportato.
+Realizzato con plastica riciclata riducendo del 30 percento le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA ISO 14021,Valido,Specifico quantificabile e supportato.
+Realizzato con plastica riciclata riducendo del 30% le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA FSC,Valido,Specifico quantificabile e supportato.
+Realizzato con plastica riciclata riducendo del 30 percento le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA FSC,Valido,Specifico quantificabile e supportato.
+Realizzato con plastica riciclata riducendo le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA FSC,Ambiguo,Non è quantificato anche se presenta LCA e documentazione.
+Realizzato con plastica riciclata riducendo del 50% le emissioni di CO2 in atmosfera rispetto ai prodotti in plastica vergine supportato da documentazione/LCA FSC,Valido,quantificato e presenta LCA e documentazione.

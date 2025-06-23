@@ -1,0 +1,19 @@
+ASTM D6400: copre plastica e 
+prodotti realizzati con plastica progettati per il compostaggio negli impianti di compostaggio aerobico municipale e industriale.
+----------------------------
+ISO 14001: Aiuta le aziende ad organizzare il lavoro per rispettare l’ambiente e migliorare continuamente.
+--------------------------------
+ISO 14024: Definisce criteri per etichette ecologiche ufficiali, date da enti terzi (non dall’azienda stessa).
+-----------------------------
+ISO 14040: Stabilisce come analizzare l’impatto ambientale di un prodotto dalla culla alla tomba (LCA)
+----------------------------
+ISO 14064: Fornisce linee guida per misurare, verificare e comunicare le emissioni di gas serra (CO₂ e simili).
+---------------------------
+ISO 14021: Definisce cosa si può scrivere sulle etichette ambientali, evitando affermazioni false o ingannevoli.
+
+
+1. Stabilire bene quali certificazioni consentono ad un prodotto di essere conforme 
+2. Scrivere i claim con diverse combinazioni di certificazioni che lo rendono sia conforme che non conforme (in una forma semplice simile a quella dello script)
+3. ISO 14021: autodichiarazione richiede la conferma scientifica, quindi inserire nel codice un "if".
+4. ISO 14001:
+5. Nel claim se è presente una dichiarazione su qualche norma ISO o altro, ma non è verificata dal tool, controllare
